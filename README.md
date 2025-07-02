@@ -16,4 +16,4 @@ Dashboard public link - https://drive.google.com/file/d/11SzluhoOPzzB-tV7eOX_AUz
 
 Story public link - https://drive.google.com/file/d/11X97ORmUXWhZwLEd-MQY2ctJ9ukjcron/view?usp=drivesdk
 
-Video demonstration link - https://drive.google.com/drive/folders/1FU0yxjAI4P8T_LyktOt0rovVmGPdYPu2
+Video demonstration link - https://drive.google.com/file/d/1C9MTKDRS4ff1LOwtwCKuOccjtpQPTSJo/view?usp=drive_link
