@@ -8,7 +8,7 @@ TEAM MEMBERS:
 
 Sk.Fayaz: https://prod-apnortheast-a.online.tableau.com/#/site/punithas1yh/home
 
-M.Barath Kumar: https://prod-apnortheast-a.online.tableau.com/#/site/geethas1ys/home
+M.Bharath Kumar: https://prod-apnortheast-a.online.tableau.com/#/site/geethas1ys/home
 
 N.Srihari: https://prod-apnortheast-a.online.tableau.com/#/site/vidhyap1yh/home
 
